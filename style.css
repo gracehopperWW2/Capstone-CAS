@@ -1,0 +1,31 @@
+.mainContent {
+  padding: 40px;
+}
+
+.navbar-collapse {
+  text-align: right;
+}
+
+.navbar-style {
+  background: #578db5;
+  text: salmon;
+}
+
+#mainNav {
+
+}
+
+.nav-link {
+  padding-left: 0;
+}
+
+.actionRow {
+  margin-top: 15px;
+}
+
+footer {
+  padding: 20px;
+}
+.footerNav {
+  max-width: 80%;
+}
